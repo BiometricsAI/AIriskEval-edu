@@ -33,15 +33,11 @@ Each explanation has five binary risk labels. Questions overlap between subsets.
 
 ## Database
 
-![Edueval_graph](https://github.com/BiDAlab/EduEVAL-DB/blob/main/img/graph.jpg)
-|:--:|
-| Setup used on mEBAL2 and the eyeblink diagram of the acquisition from mEBAL2 |
-
 ![Framework for constructing AIriskEval-edu-db2 and evaluating pedagogical risks](img/fig1.jpg)
 |:--:|
 | Dataset construction, annotation and evaluator training framework, reproduced from [1]. |
 
-*Figure 1. Dataset construction, annotation and evaluator training framework, reproduced from [1].*
+
 
 ### Stage 1 - Define the pedagogical risk rubric
 
