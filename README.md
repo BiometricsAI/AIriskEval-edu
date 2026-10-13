@@ -37,7 +37,7 @@ Each explanation has five binary risk labels. Questions overlap between subsets.
 |:--:|
 | Setup used on mEBAL2 and the eyeblink diagram of the acquisition from mEBAL2 |
 
-![Framework for constructing AIriskEval-edu-db2 and evaluating pedagogical risks](https://https://github.com/BiometricsAI/AIriskEval-edu/blob/main/img/fig1.jpg)
+![Framework for constructing AIriskEval-edu-db2 and evaluating pedagogical risks](img/fig1.jpg)
 |:--:|
 | Dataset construction, annotation and evaluator training framework, reproduced from [1]. |
 
