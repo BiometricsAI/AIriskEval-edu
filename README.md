@@ -33,11 +33,6 @@ Each explanation has five binary risk labels. Questions overlap between subsets.
 
 ## Database
 
-![Framework for constructing AIriskEval-edu-db2 and evaluating pedagogical risks](img/figure1-framework.png)
-
-
-
-
 ![Framework for constructing AIriskEval-edu-db2 and evaluating pedagogical risks](https://https://github.com/BiometricsAI/AIriskEval-edu/tree/main/img/fig1.jpg)
 |:--:|
 | Dataset construction, annotation and evaluator training framework, reproduced from [1]. |
